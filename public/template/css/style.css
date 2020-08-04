@@ -1,0 +1,7 @@
+.imglist{
+    width: 70px;
+}
+
+.table > tbody > tr > td {
+    vertical-align: middle;
+}
